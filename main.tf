@@ -1,5 +1,5 @@
 provider "okta" {
   org_name  = "dev-835967"
-  api_token = "00e34pDbneB8n6afos31zs-Mp39BXnwPo4hsj9-09v"  
+  api_token = "00ldO5Lkdm1mq-pL_4xqTCmZDgoHKn0RPBXF1Fmdqt"
   base_url  = "okta.com"
 }
